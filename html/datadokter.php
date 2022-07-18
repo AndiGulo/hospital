@@ -71,7 +71,7 @@ require 'config.php' ?>
     <tr class="text">
       <th scope="col">No</th>
       <th scope="col">Nama Dokter</th>
-      <th scope="col">Email</th>
+      <th scope="col">Email Dokter</th>
       <th scope="col">No Hp</th>
       <th scope="col">Dokter Spesialis</th>
       <th scope="col">Pasien</th>
