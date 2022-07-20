@@ -71,7 +71,7 @@ require 'config.php' ?>
   <thead>
     <tr class="text">
       <th scope="col">No</th>
-      <th scope="col">Nama Pasien</th>
+      <th scope="col">Nama Pasienku</th>
       <th scope="col">Tanggal Lahir</th>
       <th scope="col">Hasil Anamnesis</th>
       <th scope="col">Diagnosa</th>
